@@ -2,8 +2,8 @@
   "Order": [
     {
       "id": 1,
-      "num": "111"
-      "comment": "блаблабла"
+      "num": "111",
+      "comment": "блаблабла",
       "prib_inf": {
         "kolvo": 10        
       }      
